@@ -6,7 +6,7 @@ var typed = new Typed('.autoType', {
         'have an obssesion for data visulization and machine learning',
         'am a Graphics Designer',
         'love to explore different parts of arts and music',
-        'have developed AI robotics and home automation solutions for his own',
+        'have developed AI robotics and home automation solutions for my own',
         'have developed android apps',
         'am experienced in coding in Processing',
         'have conducted a research on COVID-19 with machine learning',
