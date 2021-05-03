@@ -1,9 +1,9 @@
 var typed = new Typed('.autoType', {
     strings: ['am a Programmer',
         'am a Web designer',
-        'am a Robotics enthusisiast and tech savvy geek',
+        'am a Robotics enthusiast and tech savvy geek',
         'can design clean user interfaces',
-        'have an obssesion for data visulization and machine learning',
+        'have an obsession for data visualization and machine learning',
         'am a Graphics Designer',
         'love to explore different parts of arts and music',
         'have developed AI robotics and home automation solutions for my own',
